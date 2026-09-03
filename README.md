@@ -1,4 +1,4 @@
-Amazon Product Discount & Revenue Analysis
+**Amazon Product Discount & Revenue Analysis**
 
 Objective
 Analyze the relationship between discount depth, product category and estimated revenue to determine whether discounting is an effective lever for growth, identify which discount ranges perform best and highlight which categories are discounting heavily without the results to show for it.
